@@ -1,7 +1,7 @@
 # Text Analysis and Insights Project
 
 ## Overview
-This project notebook is called FinalProject.ipynb and is a comprehensive analysis of the six volumes of _The History of the Decline and Fall of the Roman Empire_. It includes data processing, analysis, visualization, and interpretation of results using Python. The notebook consists of 194 cells, combining markdown and code cells.
+This project notebook is called ProjectNotebook.ipynb and is a comprehensive analysis of the six volumes of _The History of the Decline and Fall of the Roman Empire_. It includes data processing, analysis, visualization, and interpretation of results using Python. The notebook consists of 194 cells, combining markdown and code cells.
 
 ## Project Structure
 The notebook is structured into several sections:
