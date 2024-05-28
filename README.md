@@ -1,1 +1,1 @@
-# TextAnalyticsFinalProject
+# Text Analysis and Insights Project
